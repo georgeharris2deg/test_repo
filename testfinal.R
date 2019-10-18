@@ -6,4 +6,4 @@ fahren_to_celsius <- function(temp_F) {
 }
 
 fahren_to_celsius(200)
-fahren_to_celsius(23)
+fahren_to_celsius(299)
